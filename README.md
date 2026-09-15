@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-*   💼 Currently working as a **QA Lead / Senior Quality Assurance** at IFG Life.
-*   🚀 Over **5+ years of experience** in software testing, QA coordination, and automation.
-*   🔍 Specialized in **Insurance Core Systems** (Underwriting, Policy Services, Risk Management) and Telecommunication domain.
-*   💡 Expertise in leading **SIT, UAT, BVT, and TVT** activities within Agile Scrum environments.
+*   💼 **Results-driven Quality Assurance professional** currently working as a **QA Lead / Senior Quality Assurance** at IFG Life.
+*   🚀 Over **5+ years of experience** in software testing, QA coordination, and test automation.
+*   🔍 Deep domain knowledge in **Insurance Core Systems** (Underwriting, Policy Services, Risk Management, AML/Fraud) and Telecommunication systems.
+*   💡 Proven expertise in leading **SIT, UAT, BVT, and TVT** activities within fast-paced Agile environments.
 *   🎓 Holds a Bachelor of Information Systems from Binus University & Associate Degree from Telkom University.
 
 ### 🛠️ Tech Stack & Tools
@@ -46,6 +46,6 @@
 
 ### 💼 Work Experience Highlights
 
-*   **QA Lead / Senior QA** @ IFG Life *(Jan 2025 - Present)*: Leading QA strategies, team task management via Jira, automated testing, and specializing in Insurance Core Systems.
-*   **Software QA** @ IFG Life *(Nov 2022 - Dec 2024)*: Executed E2E testing (SIT, UAT, TVT, BVT), implemented frontend/backend automation using Katalon Studio.
-*   **Quality Assurance** @ Telkomsat *(Dec 2019 - Nov 2022)*: Conducted Whitebox & Blackbox testing, reported bugs, and performed regular system evaluations.
+*   **QA Lead / Senior QA** @ IFG Life *(Jan 2025 - Present)*: Spearheading QA strategies, mentoring teams, and enhancing testing efficiency through automated scripts for Insurance Core Systems.
+*   **Software QA** @ IFG Life *(Nov 2022 - Dec 2024)*: Designed and executed meticulous E2E testing (SIT, UAT, TVT, BVT) for core insurance modules, ensuring significantly faster defect resolution.
+*   **Quality Assurance** @ Telkomsat *(Dec 2019 - Nov 2022)*: Conducted rigorous White-box & Black-box testing for telecommunication systems, ensuring optimal performance and reliability.
